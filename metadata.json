@@ -1,0 +1,6 @@
+{
+  "name": "Online Quiz System",
+  "description": "An online quiz system with secure registration, quiz taking, instant scoring, and comprehensive admin tools for managing quizzes and questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
